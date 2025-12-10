@@ -1,0 +1,14 @@
+# Gradle
+.gradle/
+build/
+
+# Java compiled files
+*.class
+
+# IntelliJ / Eclipse
+.idea/
+*.iml
+out/
+
+# Reports
+reports/
